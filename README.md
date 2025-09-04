@@ -1,52 +1,31 @@
 🧮 Calculadora Simples em Python
+Projeto de calculadora de terminal em Python, criado para treinar fundamentos como funções, loops, condições e tratamento de erros.
 
-Este é um projeto de **calculadora de terminal em Python**, criado como parte dos meus estudos em programação.  
-O objetivo é treinar fundamentos como **funções, estruturas de repetição, condições e tratamento de erros**.
-
----
-
-## 📂 Estrutura do projeto
-
- calculadora-python/│ calculadora.py # Código principal da calculadora│ README.md # Documentação do projeto│ LICENSE # Licença de uso (MIT)
-
----
-
-## 🚀 Como executar o projeto
-
-### Pré-requisitos
-- Ter o **Python 3** instalado na sua máquina.  
-  👉 Você pode baixar aqui: [Python.org](https://www.python.org/downloads/)
-
----
-
+📂 Estrutura do projeto
+calculadora.py → Código principal
+README.md → Documentação
+LICENSE → Licença MIT
+⚒️ Ferramentas
+Python 3
+Visual Studio Code
+🚀 Como usar
+Instale o Python 3 (baixar aqui)
+Abra o terminal na pasta do projeto
+Execute:
+   python calculadora.py´
 📖 Funcionalidades
+✅ Soma
 
-✅ Soma dois números
+✅ Subtração
 
-✅ Subtração de dois números
+✅ Multiplicação
 
-✅ Multiplicação de dois números
-
-✅ Divisão de dois números (com tratamento para divisão por zero)
+✅ Divisão (com tratamento de divisão por zero)
 
 ✅ Menu interativo no terminal
 
----
-
-🛠️ Tecnologias utilizadas
-
-Python 3
-
----
-
-📜 Licença
-
-Este projeto está sob a licença MIT - veja o arquivo LICENSE
- para mais detalhes.
-
----
- 
- 👤 Autor:
-
-Iago Barbosa 🚀
-🔗 LinkedIn | GitHub
+♻️ Como contribuir
+# Clone o projeto
+$ git clone  https://github.com/IagoBarbosa-1995/calculadora-python.git
+👨🏻‍💻 Autor
+Iago Barbosa 🚀 🔗 LinkedIn
