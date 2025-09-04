@@ -7,10 +7,7 @@ O objetivo é treinar fundamentos como **funções, estruturas de repetição, c
 
 ## 📂 Estrutura do projeto
 
-calculadora-python/
-│ calculadora.py # Código principal da calculadora
-│ README.md # Documentação do projeto
-│ LICENSE # Licença de uso (MIT)
+ calculadora-python/│ calculadora.py # Código principal da calculadora│ README.md # Documentação do projeto│ LICENSE # Licença de uso (MIT)
 
 ---
 
@@ -53,12 +50,3 @@ Este projeto está sob a licença MIT - veja o arquivo LICENSE
 
 Iago Barbosa 🚀
 🔗 LinkedIn | GitHub
-
-
----
-
-👉 Esse README agora tem **badges de linguagem, status e licença**, o que deixa o projeto com cara de profissional.  
-
-Quer que eu monte também um **banner/capa personalizado (em imagem)** para você colocar no topo do README e deixar ainda mais estilizado?
-
-     
