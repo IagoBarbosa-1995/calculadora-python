@@ -1,31 +1,53 @@
-🧮 Calculadora Simples em Python
-Projeto de calculadora de terminal em Python, criado para treinar fundamentos como funções, loops, condições e tratamento de erros.
+# 🧮 Calculadora Simples em Python
 
-📂 Estrutura do projeto
-calculadora.py → Código principal
-README.md → Documentação
-LICENSE → Licença MIT
-⚒️ Ferramentas
-Python 3
-Visual Studio Code
-🚀 Como usar
-Instale o Python 3 (baixar aqui)
-Abra o terminal na pasta do projeto
-Execute:
+Projeto de **calculadora de terminal em Python**, criado para treinar fundamentos como funções, loops, condições e tratamento de erros.
+
+---
+
+## 📂 Estrutura do projeto
+- `calculadora.py` → [Código principal](https://github.com/IagoBarbosa-1995/calculadora-python/blob/main/calculadora.py)   
+- `README.md` → [Documentação](https://github.com/IagoBarbosa-1995/calculadora-python/blob/main/README.md) 
+- `LICENSE` → [Licença MIT](https://github.com/IagoBarbosa-1995/calculadora-python/blob/main/LICENSE) 
+
+---
+
+ 
+## ⚒️ Ferramentas
+- [Python 3](https://www.python.org/) 
+- [Visual Studio Code](https://code.visualstudio.com/)
+
+--- 
+ ## 🚀 Como usar
+1. Instale o **Python 3** ([baixar aqui](https://www.python.org/downloads/))  
+2. Abra o terminal na pasta do projeto  
+3. Execute:
+```bash
    python calculadora.py´
-📖 Funcionalidades
-✅ Soma
+   ````
+---
 
-✅ Subtração
+## 📖 Funcionalidades
 
-✅ Multiplicação
 
-✅ Divisão (com tratamento de divisão por zero)
+- ✅ Soma
 
-✅ Menu interativo no terminal
+- ✅ Subtração
 
-♻️ Como contribuir
+- ✅ Multiplicação
+
+- ✅ Divisão (com tratamento de divisão por zero)
+
+- ✅ Menu interativo no terminal
+---
+## ♻️ Como contribuir
+
+```bash 
 # Clone o projeto
 $ git clone  https://github.com/IagoBarbosa-1995/calculadora-python.git
-👨🏻‍💻 Autor
-Iago Barbosa 🚀 🔗 LinkedIn
+```
+---
+
+## 👨🏻‍💻 Autor
+
+Iago Barbosa 🚀
+🔗 [LinkedIn](www.linkedin.com/in/iago-barbosa-2429192bb)
