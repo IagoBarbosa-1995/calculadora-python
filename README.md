@@ -54,4 +54,11 @@ Este projeto está sob a licença MIT - veja o arquivo LICENSE
 Iago Barbosa 🚀
 🔗 LinkedIn | GitHub
 
+
+---
+
+👉 Esse README agora tem **badges de linguagem, status e licença**, o que deixa o projeto com cara de profissional.  
+
+Quer que eu monte também um **banner/capa personalizado (em imagem)** para você colocar no topo do README e deixar ainda mais estilizado?
+
      
