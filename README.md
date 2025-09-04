@@ -47,10 +47,11 @@ Python 3
 Este projeto está sob a licença MIT - veja o arquivo LICENSE
  para mais detalhes.
 
- 👤 Autor
-
-👤 Autor
+---
+ 
+ 👤 Autor:
 
 Iago Barbosa 🚀
-🔗 LinkedIn
- | GitHub
+🔗 LinkedIn | GitHub
+
+     
