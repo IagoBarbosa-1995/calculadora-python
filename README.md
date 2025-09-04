@@ -1,2 +1,2 @@
 # calculadora-python
-Calculadora simples em Python para treinar fundamentos da linguagem.
+Projeto de calculadora simples em Python, criado para treinar conceitos básicos da linguagem, como funções, loops e interação com o usuário no terminal.
