@@ -8,9 +8,9 @@ O objetivo é treinar fundamentos como **funções, estruturas de repetição, c
 ## 📂 Estrutura do projeto
 
 calculadora-python/
-│── calculadora.py # Código principal da calculadora
-│── README.md # Documentação do projeto
-│── LICENSE # Licença de uso (MIT)
+│ calculadora.py # Código principal da calculadora
+│ README.md # Documentação do projeto
+│ LICENSE # Licença de uso (MIT)
 
 ---
 
@@ -48,6 +48,8 @@ Este projeto está sob a licença MIT - veja o arquivo LICENSE
  para mais detalhes.
 
  👤 Autor
+
+👤 Autor
 
 Iago Barbosa 🚀
 🔗 LinkedIn
