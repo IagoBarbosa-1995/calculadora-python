@@ -14,7 +14,7 @@ Projeto de **calculadora de terminal em Python**, criado para treinar fundamento
  
 ## ⚒️ Ferramentas
 - [Python 3](https://www.python.org/) 
-- [Visual Studio Code](https://code.visualstudio.com/)
+- [Terminal/Console](https://code.visualstudio.com/)
 
 --- 
  ## 🚀 Como usar
