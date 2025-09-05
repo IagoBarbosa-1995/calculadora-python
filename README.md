@@ -39,6 +39,15 @@ Projeto de **calculadora de terminal em Python**, criado para treinar fundamento
 
 - ✅ Menu interativo no terminal
 ---
+## 📚 Aprendizados
+- Funções em Python  
+- Laços de repetição  
+- Condições (if/else)  
+- Entrada e saída de dados  
+- Tratamento de erros
+
+---
+
 ## ♻️ Como contribuir
 
 ```bash 
